@@ -65,19 +65,7 @@ config=config.Config(dirpath+'/'+'config.txt')
 classesFile= config.classesFile
 modelConfiguration=config.modelConfiguration
 modelWeights= config.modelWeights
-################For only bowl with overfitting idea
 
-#classesFile = "/home/tanbir/darknet/custom_files/yolov3_bowl_overfitting_idea/obj.names" #for  bowl classes
-
-#modelConfiguration = "/home/tanbir/darknet/custom_files/yolov3_bowl_overfitting_idea/yolo-obj.cfg"  #for bowl classes
-
-#modelWeights ='/home/tanbir/darknet/custom_files/yolov3_bowl_overfitting_idea/yolo-obj_1900.weights' #for single bowl overfitting idea
-
-
-######################loads the time stamps of each scene videos
-
-
-#######################
 
 
 # Initialize the parameters
