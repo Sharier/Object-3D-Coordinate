@@ -73,11 +73,6 @@ confThreshold = config.confThreshold
 nmsThreshold = config.nmsThreshold
 inpWidth = config.inpWidth
 inpHeight = config.inpHeight
-#confThreshold = 0.9 #Confidence threshold
-#nmsThreshold = 0.7   #Non-maximum suppression threshold#*
-#inpWidth = 416       #Width of network's input image
-#inpHeight = 416      #Height of network's input image
-
 
 
 ###########################################################
