@@ -19,8 +19,10 @@ The main goal of the project was to determine the 3D coordinate of each specific
 ## Requirements:
 
 1. OpenCV 4.0.0
-2. Darknet YOLO
+2. Darknet YOLO. [Darknet_YOLO](https://github.com/AlexeyAB/darknet)
 3. Pandas, Numpy, imutils
+4. Linux OS (Ubuntu 16.04 LTS)
+5. Python 3.6.6
 
 ## Procedures To use the script:
 
