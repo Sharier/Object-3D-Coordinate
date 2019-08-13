@@ -34,4 +34,4 @@ The main goal of the project was to determine the 3D coordinate of each specific
 6. *optitrackCSV*: Path to csv file of the motion capture CSV.
 
 
-![Detection of Object (Bowl) On Dinner Table Scenerio](/home/tanbir/MSC_THESIS/REPORT_WRITING/LaTeX Template Studenten EN, V01b 2016_09_28/bilder/yolo_out_py.jpg)
+![Detection of Object (Bowl) On Dinner Table Scenerio](https://raw.githubusercontent.com/Sharier/Object-3D-Coordinate/ecc3f1ccd1c6820957cf99b5bade20640c518d16/tracked.png)
