@@ -11,16 +11,16 @@ The main goal of the project was to determine the 3D coordinate of each specific
 
 ## GOALS: 
 
-1. **Detect the objects using YOLO (You Only Look Once)**.
-2. **Track the Detected objects using OpenCV Multi-tracker**.
-3. **Camera Calibration**.
-4. **Combine Motion Capture Data with obtained coordinates from computer vision technique to generate a 3D coordinate of each object**.
+1. *Detect the objects using YOLO-V3 (You Only Look Once)*.
+2. *Track the Detected objects using OpenCV Multi-tracker*.
+3. *Camera Calibration*.
+4. *Combine Motion Capture Data with obtained coordinates from computer vision technique to generate a 3D coordinate of each object*.
 
 ## Requirements:
 
 1. OpenCV 4.0.0
-2. Darknet YOLO. [Darknet_YOLO](https://github.com/AlexeyAB/darknet)
-3. Pandas, Numpy, imutils
+2. Darknet YOLO. [Darknet_YOLO-V3](https://github.com/AlexeyAB/darknet)
+3. Pandas, Numpy, Imutils
 4. Linux OS (Ubuntu 16.04 LTS)
 5. Python 3.6.6
 
